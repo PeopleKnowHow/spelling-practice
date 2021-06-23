@@ -9,3 +9,5 @@ To add another word:
 - Name the file the correct spelling of the word e.g "tomorrow.ogg".
 - Put the file in audio/.
 - Add the word to the array on line 2 in script.js.
+
+Sound recordings from the Shtooka Project (http://shtooka.net/).
